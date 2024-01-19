@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Bookstore/static/css/main.ec8bedc1.css",
+    "main.js": "/Bookstore/static/js/main.fc02c76b.js",
+    "static/js/787.1e48cc4a.chunk.js": "/Bookstore/static/js/787.1e48cc4a.chunk.js",
+    "static/media/oz4.png": "/Bookstore/static/media/oz4.46b9b257da99ef62141d.png",
+    "static/media/oz3.png": "/Bookstore/static/media/oz3.961bd11569978bbf67eb.png",
+    "static/media/oz2.png": "/Bookstore/static/media/oz2.8b834b0682d2a3d4a0bc.png",
+    "static/media/oz1.png": "/Bookstore/static/media/oz1.3b9dfbf0fb5866f7ce19.png",
+    "static/media/about.jpeg": "/Bookstore/static/media/about.a2dad6179a1b43159c0e.jpeg",
+    "static/media/bg3.jpeg": "/Bookstore/static/media/bg3.a34ca42b136d96395fcb.jpeg",
+    "static/media/bg1.jpeg": "/Bookstore/static/media/bg1.fb878cd2825171a81d71.jpeg",
+    "static/media/Book3.jpeg": "/Bookstore/static/media/Book3.b949ab8bae720672dcb1.jpeg",
+    "static/media/Book2.jpeg": "/Bookstore/static/media/Book2.ac0df7f19e7f9ad82580.jpeg",
+    "static/media/Book1.jpeg": "/Bookstore/static/media/Book1.580516a21e6adcca8028.jpeg",
+    "static/media/Book4.jpeg": "/Bookstore/static/media/Book4.cb98df5cee4a53310d49.jpeg",
+    "index.html": "/Bookstore/index.html",
+    "main.ec8bedc1.css.map": "/Bookstore/static/css/main.ec8bedc1.css.map",
+    "main.fc02c76b.js.map": "/Bookstore/static/js/main.fc02c76b.js.map",
+    "787.1e48cc4a.chunk.js.map": "/Bookstore/static/js/787.1e48cc4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8bedc1.css",
+    "static/js/main.fc02c76b.js"
+  ]
+}
